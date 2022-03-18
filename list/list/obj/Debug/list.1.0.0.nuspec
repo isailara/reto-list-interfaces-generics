@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>list</id>
+    <version>1.0.0</version>
+    <authors>list</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\isail\Documents\List\list\list\bin\Debug\net6.0\list.runtimeconfig.json" target="lib\net6.0\list.runtimeconfig.json" />
+    <file src="C:\Users\isail\Documents\List\list\list\bin\Debug\net6.0\list.dll" target="lib\net6.0\list.dll" />
+  </files>
+</package>
